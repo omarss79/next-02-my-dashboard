@@ -6,6 +6,10 @@ const nextConfig: NextConfig = {
       {
         protocol: 'https',
         hostname: 'img-s-msn-com.akamaized.net'
+      },
+      {
+        protocol: 'https',
+        hostname: 'raw.githubusercontent.com'
       }
     ]
   }
